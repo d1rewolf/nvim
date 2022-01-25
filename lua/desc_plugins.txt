@@ -1,0 +1,11 @@
+
+coq_nvim - autocomplete
+editor config - maintain style across editors
+indent blankline - adds indentation guides to all lines (including empty lines).
+kommentary - commenting plugin
+lspsaga - lightweight lsp plugin
+dap - debug adapter protocol
+treesitter - better highlighting
+splice - three way merge
+strftimedammit - shows the format strings for different languages
+plenary - popup - 
